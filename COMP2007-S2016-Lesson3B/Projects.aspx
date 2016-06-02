@@ -5,7 +5,7 @@
 <!--Projects Page-->
 
     <main class="container">
-        <h1>Projects</h1>
+        <h1>Projects</h1> 
         <p>Personal Completed Projects</p>
         <h3>HOME MONITOR with an ARDUINO UNO</h3>
         <img src="/images/homemonitor.jpg" alt="homemonitor">

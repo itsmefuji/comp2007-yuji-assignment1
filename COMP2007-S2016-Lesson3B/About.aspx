@@ -3,7 +3,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <!--ABOUT ME page-->
-    <main class="container">
+    <main class="container"> 
         <h1>ABOUT</h1>
         <h2>YUJI FUJIYAMA</h2>
         <img src="/Assets/me.jpeg" alt="yujiFujiyama" width="50%">

@@ -6,7 +6,7 @@
 
     <main class="container">
         <h1>SERVICES</h1>
-        <p>Looking to get things done? You're at the right place.</p>
+        <p>Looking to get things done? You're at the right place.</p> 
         <h3>WEB DESIGNING</h3>
         <div class="one">
             <img src="/Assets/fa-logo.png" width="20%">

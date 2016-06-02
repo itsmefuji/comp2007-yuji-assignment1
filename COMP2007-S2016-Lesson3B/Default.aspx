@@ -8,7 +8,7 @@
     <!--Home Page -->
 
     <main class="container">
-        <div class="jumbotron">
+        <div class="jumbotron"> 
             <h1>Welcome!</h1>
             <p>Yuji Fujiyama's ASP.NET Portfolio</p>
             <p><a class="btn btn-primary" href="/about.aspx" role="button">Learn More About Me</a></p>
